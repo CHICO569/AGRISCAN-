@@ -1,0 +1,9 @@
+{
+  "name": "AgriScan+",
+  "description": "Plateforme moderne de diagnostic des sols, recommandation agronomique et marketplace sécurisée pour l'agriculture sénégalaise.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
